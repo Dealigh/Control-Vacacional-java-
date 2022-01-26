@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Dealigh (Daniel Rodriguez), teached by "La geekipedia de Ernesto"
+Main-Class: Bienvenida
+X-COMMENT: Gracias por llegar hasta aquí.
+
