@@ -6,4 +6,8 @@ El programa es bastante parecido, pero esta hecho algo diferente para permitirme
 mi progreso.
 
 Sobre su uso: En esta carpeta encontraras el codigo y ademas vas a encontrar un archivo jar llamado -----Sistema-----, si requieres el programa y no el código, puedes abrir directamente el mismo
+
+Para la funcionalidad del programa en si: debes escribir un nombre cualquiera, anotar en que rubro trabaja, antiguedad, dirigirse a la barra superior y clickear "Calcular" => Vacaciones.
+
+
 Hice este programa con fines educativos, y lo subo para actualizarlo. 
